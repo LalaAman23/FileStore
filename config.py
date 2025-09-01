@@ -40,7 +40,7 @@ START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/ec17880d61180d3
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "http://pocolinks.com")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "pocolinks.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "f881fdb1dff8a66a645327004cc6a5f9b79e6dbe")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/hwdownload/3")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
