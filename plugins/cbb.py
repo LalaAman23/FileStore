@@ -68,15 +68,27 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             photo=QR_PIC,
             caption=(
                 f"👋 {query.from_user.username}\n\n"
-                f"🎖️ Available Plans :\n\n"
-                f"● {PRICE1}  For 0 Days Prime Membership\n\n"
-                f"● {PRICE2}  For 1 Month Prime Membership\n\n"
-                f"● {PRICE3}  For 3 Months Prime Membership\n\n"
-                f"● {PRICE4}  For 6 Months Prime Membership\n\n"
-                f"● {PRICE5}  For 1 Year Prime Membership\n\n\n"
-                f"💵 ASK UPI ID TO ADMIN AND PAY THERE -  <code>{UPI_ID}</code>\n\n\n"
-                f"♻️ After Payment You Will Get Instant Membership \n\n\n"
-                f"‼️ Must Send Screenshot after payment & If anyone want custom time membrship then ask admin"
+                f"⭐Avilable Plans👇
+➖➖➖➖➖➖➖➖➖➖
+🏷 Pricing: ✔️ 7 Days - INR ₹19 Tryal
+╭─────────────────────
+🔹  ₹99 ₹249 : 1 Month
+🔹  ₹179 ₹349 : 2 Months
+🔹  ₹219 ₹449 : 3 Months 
+🔹  ₹399 ₹899 : 6 Months
+🔹  ₹599 ₹1099 : 12 Months
+🔹  ₹1299 ₹1,999 : VIP / Lifetime Plan
+╰─────────────────────
+➖➖➖➖➖➖➖➖➖➖
+🚀 Premium Benefits:
+➡️ No Link Shortener – Direct links, no ads
+➡️ One Membership – Access all channels
+➡️ Quick Access – Instant  on click
+➡️ Faster Uploads – Priority content delivery
+➡️ Best Value – Totally worth it!
+🆘Buy Premium Plan @Levi_a23 👈DM me
+
+& Click Here👇"
             ),
             reply_markup=InlineKeyboardMarkup(
                 [
