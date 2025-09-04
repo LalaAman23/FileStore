@@ -67,16 +67,17 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             chat_id=query.message.chat.id,
             photo=QR_PIC,
             caption=(
-                f"👋 {query.from_user.username}\n\n"
-                f"🎖️ Available Plans :\n\n"
+                f"👋Hi... {query.from_user.username} 💥\n\n"
+                f"Premium Benefits & Perks Direct Channel Links, No Ad Links Special Access In Events.\n"
+                f"🎖️ Available Plans👇\n"
                 f"🔹 {PRICE1}  : 7 Days\n"
-                "🔹 {PRICE2}  : 1 Month\n"
+                f"🔹 {PRICE2}  : 1 Month\n"
                 f"🔹 {PRICE3}  : 3 Months\n"
                 f"🔹 {PRICE4}  : 6 Months\n"
                 f"🔹 {PRICE5}  : 1 Year\n\n"
-                f"💵 ASK UPI ID TO ADMIN AND PAY THERE -  <code>{UPI_ID}</code>\n\n\n"
-                f"♻️ After Payment You Will Get Instant Membership \n\n\n"
-                f"‼️ Must Send Screenshot after payment & If anyone want custom time membrship then ask admin"
+                f"📌Want To Buy? <code>{UPI_ID}</code>\n"
+                f"👉Dm Here - @Hanime_Aura\n"
+                f"⛩️We Have Limited Seats For 🪩Premium Users"
             ),
             reply_markup=InlineKeyboardMarkup(
                 [
