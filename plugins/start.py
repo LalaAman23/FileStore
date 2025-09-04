@@ -202,13 +202,7 @@ async def start_command(client: Client, message: Message):
     else:
         reply_markup = InlineKeyboardMarkup(
             [
-                    [InlineKeyboardButton("• ᴍᴏʀᴇ ᴄʜᴀɴɴᴇʟs •", url="https://t.me/Nova_Flix/50")],
-
-    [
-                    InlineKeyboardButton("• ᴀʙᴏᴜᴛ", callback_data = "about"),
-                    InlineKeyboardButton('ʜᴇʟᴘ •', callback_data = "help")
-
-    ]
+                    [InlineKeyboardButton("● 𝗠𝗼𝗿𝗲 𝗖𝗵𝗮𝗻𝗻𝗲𝗹𝘀 ●", url="https://t.me/+SCTwDcSVq5EwODQ1")]
             ]
         )
         await message.reply_photo(
