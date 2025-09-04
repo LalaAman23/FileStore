@@ -67,23 +67,23 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             chat_id=query.message.chat.id,
             photo=QR_PIC,
             caption=(
-                f"👋Hi... {query.from_user.username} 💥\n\n"
-                f"Premium Benefits & Perks Direct Channel Links, No Ad Links Special Access In Events.\n"
-                f"🎖️ Available Plans👇\n"
-                f"🔹 {PRICE1}  : 7 Days\n"
-                f"🔹 {PRICE2}  : 1 Month\n"
-                f"🔹 {PRICE3}  : 3 Months\n"
-                f"🔹 {PRICE4}  : 6 Months\n"
-                f"🔹 {PRICE5}  : 1 Year\n\n"
-                f"📌Want To Buy? <code>{UPI_ID}</code>\n"
-                f"👉Dm Here - @Hanime_Aura\n"
-                f"⛩️We Have Limited Seats For 🪩Premium Users"
+                f"👋\𝗛𝗶... {query.from_user.username} 💥\n\n"
+                f"𝗣𝗿𝗲𝗺𝗶𝘂𝗺 𝗕𝗲𝗻𝗲𝗳𝗶𝘁𝘀 & 𝗣𝗲𝗿𝗸𝘀 𝗗𝗶𝗿𝗲𝗰𝘁 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗟𝗶𝗻𝗸𝘀, 𝗡𝗼 𝗔𝗱 𝗟𝗶𝗻𝗸𝘀 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗰𝗰𝗲𝘀𝘀 𝗜𝗻 𝗘𝘃𝗲𝗻𝘁𝘀.\n\n"
+                f"👇𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗣𝗹𝗮𝗻𝘀 💵𝗣𝗿𝗶𝗰𝗲🎖️\n"
+                f"🔹 {PRICE1}  : 7 𝗗𝗮𝘆𝘀 𝗳𝗼𝗿 𝗧𝗿𝘆𝗮𝗹\n"
+                f"🔹 {PRICE2}  : 1 𝗠𝗼𝗻𝘁𝗵\n"
+                f"🔹 {PRICE3}  : 3 𝗠𝗼𝗻𝘁𝗵𝘀 \n"
+                f"🔹 {PRICE4}  : 6 𝗠𝗼𝗻𝘁𝗵𝘀\n"
+                f"🔹 {PRICE5}  : 1 𝗬𝗲𝗮𝗿\n\n"
+                f"📌W𝖠𝖭𝖳 T𝖮 B𝖴𝖸? <code>{UPI_ID}</code>\n"
+                f"👉𝗗𝗺 𝗛𝗲𝗿𝗲 - @Hanime_Aura\n"
+                f"⛩️We Have Limited Seats For 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 Users"
             ),
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            "ADMIN 24/7", url=(SCREENSHOT_URL)
+                            "👉𝗕𝘂𝘆 𝗡𝗼𝘄👈", url=(SCREENSHOT_URL)
                         )
                     ],
                     [InlineKeyboardButton("🔒 Close", callback_data="close")],
