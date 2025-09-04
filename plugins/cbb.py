@@ -75,9 +75,9 @@ async def cb_handler(client: Bot, query: CallbackQuery):
                 f"🔹 {PRICE3}  : 3 𝗠𝗼𝗻𝘁𝗵𝘀 \n"
                 f"🔹 {PRICE4}  : 6 𝗠𝗼𝗻𝘁𝗵𝘀\n"
                 f"🔹 {PRICE5}  : 1 𝗬𝗲𝗮𝗿\n\n"
-                f"📌W𝖠𝖭𝖳 T𝖮 B𝖴𝖸? <code>{UPI_ID}</code>\n"
+                f"📌𝗪𝗮𝗻𝘁 𝗧𝗼 𝗕𝘂𝘆 ❓ <code>{UPI_ID}</code>\n"
                 f"👉𝗗𝗺 𝗛𝗲𝗿𝗲 - @LeviAura\n"
-                f"⛩️We Have Limited Seats For 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 Users"
+                f"💭We Have Limited Seats For 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 Users"
             ),
             reply_markup=InlineKeyboardMarkup(
                 [
