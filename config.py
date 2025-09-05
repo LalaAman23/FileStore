@@ -52,7 +52,7 @@ SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://ibb.co/PZ0xxDNV")
 #--------------------------------------------
 #--------------------------------------------
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜɪ ᴛʜᴇʀᴇ... {mention} ! 💥\n\nɪ ᴀᴍ ᴀ ʙᴏᴛ...!\nɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....!</b>")
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "𝗛𝗲𝗹𝗹𝗼☠{mention}⚡\n\n➥Fɪʀꜱᴛ Jᴏɪɴ Oᴜʀ BᴀᴄᴋUᴘ Cʜᴀɴɴᴇʟꜱ.")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "𝗛𝗲𝗹𝗹𝗼☠{mention}⚡\n\n➥𝗣𝗹𝗲𝗮𝘀𝗲 𝗙𝗶𝗿𝘀𝘁 𝗝𝗼𝗶𝗻 𝗕𝗼𝘁𝗵 𝗼𝗳 𝗕𝗮𝗰𝗸𝗨𝗽 𝗖𝗵𝗮𝗻𝗻𝗲𝗹𝘀 & 𝗧𝗵𝗲𝗻 𝗖𝗹𝗶𝗰𝗸 𝗼𝗻 𝗧𝗿𝘆 𝗮𝗴𝗮𝗶𝗻...")
 
 CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockquote>
 
