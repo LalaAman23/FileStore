@@ -37,13 +37,13 @@ BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/CodeflixSupport")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
 START_PIC = os.environ.get("START_PIC", "https://ibb.co/PZ0xxDNV")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://ibb.co/PZ0xxDNV")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://ibb.co/6007Sh86")
 
 #--------------------------------------------
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "pocolinks.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "f881fdb1dff8a66a645327004cc6a5f9b79e6dbe")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/hwdownload/3")
-SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
+SHORT_MSG = "<b>👇𝗖𝗹𝗶𝗰𝗸 𝗼𝗻 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗕𝘂𝘁𝘁𝗼𝗻</b>"
 
 SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://ibb.co/PZ0xxDNV")
 #--------------------------------------------
@@ -52,7 +52,7 @@ SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://ibb.co/PZ0xxDNV")
 #--------------------------------------------
 #--------------------------------------------
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜɪ ᴛʜᴇʀᴇ... {mention} ! 💥\n\nɪ ᴀᴍ ᴀ ʙᴏᴛ...!\nɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....!</b>")
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "𝗛𝗲𝗹𝗹𝗼☠{mention}⚡\n\n🫧𝗣𝗹𝗲𝗮𝘀𝗲 𝗷𝗼𝗶𝗻 𝗯𝗼𝘁𝗵 𝗼𝗳 𝗼𝘂𝗿 𝗰𝗵𝗮𝗻𝗻𝗲𝗹𝘀 𝗳𝗶𝗿𝘀𝘁 𝘁𝗵𝗲𝗻 𝘁𝗿𝘆 𝗮𝗴𝗮𝗶𝗻...!")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "𝗛𝗲𝗹𝗹𝗼☠{mention}⚡\n\n➥Fɪʀꜱᴛ Jᴏɪɴ Oᴜʀ BᴀᴄᴋUᴘ Cʜᴀɴɴᴇʟꜱ.")
 
 CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockquote>
 
