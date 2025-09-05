@@ -40,8 +40,8 @@ START_PIC = os.environ.get("START_PIC", "https://ibb.co/PZ0xxDNV")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://ibb.co/6007Sh86")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "pocolinks.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "f881fdb1dff8a66a645327004cc6a5f9b79e6dbe")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "inshorturl.com")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "992790b1c8f256fdbd8f15d872650598bc6f0349")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/hwdownload/3")
 SHORT_MSG = "<b>👇𝗖𝗹𝗶𝗰𝗸 𝗼𝗻 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗕𝘂𝘁𝘁𝗼𝗻</b>"
 
@@ -104,7 +104,7 @@ PRICE3 = os.environ.get("PRICE3", "₹219")
 #6 Month
 PRICE4 = os.environ.get("PRICE4", "₹399")
 #1 Year
-PRICE5 = os.environ.get("PRICE5", "599")
+PRICE5 = os.environ.get("PRICE5", "₹599")
 
 #===================(END)========================#
 
